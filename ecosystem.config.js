@@ -3,7 +3,7 @@ module.exports = {
       name: 'LearnUp Indonesia',
       script: 'node_modules/.bin/next',
       args:'start',
-      cwd:"/home/learnupindonesia.com/public_html/web/.next/server/pages/",
+      cwd:"/home/learnupindonesia.com/public_html/",
       instances: 3,
       autorestart: true,
       watch: false,
